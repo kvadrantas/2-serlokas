@@ -1,17 +1,17 @@
 # Procesas
 
-- [x] pradine failu struktura
+- [x] Pradinė failų struktūra
     - index.html
     - .gitignore
-- [x] paviesinti projekta per Github Pages (gausim URL)
-- [x] susikurti README.md faila - failas skirtas supazindinti visus pasalinius asmenis apie projekta, kam jis skirtas, ka planavau ispandyti, ka planavau parodyti ir pan.
-- [x] iterpti nuoroda i darbo dizaina
-- [x] iterpti nuoroda, kur tas musu kodas gali buti pamatytas
-- [x] atlikti dizaino analize
-- [x] surasyti HTML
-- [x] issikirpti nuotraukas ir jas **panaudoti**
+- [x] Paviešinti projektą per Github Pages (gausim URL)
+- [x] Sukurti README.md failą - failas skirtas supažindinti visus pašalinius asmenis apie projektą, kam jis skirtas, ką planavau išbandyti, ką planavau parodyti ir pan.
+- [x] įterpti nuorodą į darbo dizainą
+- [x] įterpti nuorodą į savo kodą
+- [x] atlikti dizaino analizę
+- [x] surašyti HTML
+- [x] išsikirpti nuotraukas ir jas panaudoti
 - [x] panaudoti releatyvius kelius
-- [x] aprasyti stilius
+- [x] aprašyti stilius
 
 # *Pasiskaitymui*
 
@@ -20,6 +20,9 @@
 
 ![Serlokas](/serlokas.jpg)
 
+## Authors
+
+
 Author | Description
 ------------ | -------------
-Rolandas Šeputis | Homework No1: "Serlokas"
+[Rolandas Šeputis](https://github.com/kvadrantas)| [Homework No1: "Serlokas"](https://kvadrantas.github.io/2-serlokas/)

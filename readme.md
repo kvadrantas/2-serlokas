@@ -27,9 +27,11 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850
 
 ![Serlokas](/serlokas.jpg)
 
-Author | Description
------------- | -------------
-Rolandas Šeputis | Homework No1: "Serlokas"
 
 ## Authors
-[Rolandas](https://github.com/kvadrantas)
+
+
+Author | Description
+------------ | -------------
+[Rolandas Šeputis](https://github.com/kvadrantas)| [Homework No1: "Serlokas"](https://kvadrantas.github.io/2-serlokas/)
+
