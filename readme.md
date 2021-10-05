@@ -21,7 +21,10 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850
 - Create simple HTML page from provided design
 - Learn to use [Markdown](https://guides.github.com/features/mastering-markdown/)
 - Learn to use .gitignore
-
+- Inline styling
+- No css
+- No responsive design
+- No javascript
 
 
 
